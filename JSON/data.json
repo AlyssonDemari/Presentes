@@ -1,0 +1,68 @@
+[
+    {
+        "nome": "Alysson",
+        "avatar": "style/img/alysson.png",
+        "presentes": [
+            {
+                "titulo": "Primeira opção",
+                "descricao": "Tênis na cor marrom tamanho 40",
+                "imagem": "style/img/alysson-pren1.png",
+                "links": [
+                    {
+                        "texto": "Link do Tênis",
+                        "url": "https://br.shein.com/..."
+                    }
+                ]
+            },
+            {
+                "titulo": "Segunda opção",
+                "descricao": "Massageador portatil e Saco a vacuo",
+                "imagem": "style/img/alysson-pren2.png",
+                "links": [
+                    {
+                        "texto": "Link Massageador",
+                        "url": "https://produto.mercadolivre.com.br/MLB-4108226429#..."
+                    },
+                    {
+                        "texto": "Link Saco a vacuo",
+                        "url": "https://produto.mercadolivre.com.br/MLB-4108226429#..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Alexandre",
+        "avatar": "style/img/alexandre.png",
+        "presentes": [
+            {
+                "titulo": "Opção Única",
+                "descricao": "Livro de culinária",
+                "imagem": "style/img/alexandre-pren1.png",
+                "links": [
+                    {
+                        "texto": "Comprar Agora",
+                        "url": "https://loja.exemplo.com/livro-culinaria"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Alexandre",
+        "avatar": "style/img/alexandre.png",
+        "presentes": [
+            {
+                "titulo": "Opção Única",
+                "descricao": "Livro de culinária",
+                "imagem": "style/img/alexandre-pren1.png",
+                "links": [
+                    {
+                        "texto": "Comprar Agora",
+                        "url": "https://loja.exemplo.com/livro-culinaria"
+                    }
+                ]
+            }
+        ]
+    }
+]
