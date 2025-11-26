@@ -1,68 +1,114 @@
 [
     {
-        "nome": "Alysson",
-        "avatar": "style/img/alysson.png",
-        "presentes": [
-            {
-                "titulo": "Primeira opção",
-                "descricao": "Tênis na cor marrom tamanho 40",
-                "imagem": "style/img/alysson-pren1.png",
-                "links": [
-                    {
-                        "texto": "Link do Tênis",
-                        "url": "https://br.shein.com/..."
-                    }
-                ]
-            },
-            {
-                "titulo": "Segunda opção",
-                "descricao": "Massageador portatil e Saco a vacuo",
-                "imagem": "style/img/alysson-pren2.png",
-                "links": [
-                    {
-                        "texto": "Link Massageador",
-                        "url": "https://produto.mercadolivre.com.br/MLB-4108226429#..."
-                    },
-                    {
-                        "texto": "Link Saco a vacuo",
-                        "url": "https://produto.mercadolivre.com.br/MLB-4108226429#..."
-                    }
-                ]
-            }
-        ]
+      "name": "Alexandre",
+      "avatar_img": "style/img/alexandre.png",
+      "item_title1": "Primeira Opção",
+      "item_descrition1": "Fita métrica de aço inoxidável de alta precisão",
+      "item_img1": "style/img/alexandre-pren1.png",
+      "item_link1":"https://www.mercadolivre.com.br/fita-metrica-profissional-10m-ultra-resistente-aco-inox-obra/p/MLB53406701?pdp_filters=item_id%3AMLB4147282393&from=gshop&matt_tool=29851250&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090354004&matt_ad_group_id=173090515436&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727882725585&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB53406701-product&matt_product_partition_id=2387496046547&matt_target_id=aud-1966503641507:pla-2387496046547&cq_src=google_ads&cq_cmp=22090354004&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354004&gclid=Cj0KCQiAoZDJBhC0ARIsAERP-F9791_3Hw_P4GHIMfX8tSHA4KYIhVfKSe8__ia9EAjlr8CFH8GIHYEaAgD3EALw_wcB",
+
+      "item_title2": "Segunda Opção",
+      "item_descrition2": "Kit 6 Pontas Bits Super Magnética Ponteira",
+      "item_img2": "style/img/alexandre-pren2.png",
+      "item_link2":"https://produto.mercadolivre.com.br/MLB-5351703762-kit-6-pontas-bits-super-magnetica-ponteira-ph2-parafusadeira-_JM?matt_tool=48995110&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22603531562&matt_ad_group_id=181244933895&matt_match_type=&matt_network=g&matt_device=c&matt_creative=758138322200&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5550523744&matt_product_id=MLB5351703762&matt_product_partition_id=2424443219726&matt_target_id=aud-1966503641507:pla-2424443219726&cq_src=google_ads&cq_cmp=22603531562&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22603531562&gclid=Cj0KCQiAoZDJBhC0ARIsAERP-F8p4zEAplcEvWXS0bvpbm5QreBc9z8HgOy4eal8j9otXKtuTUWgYSsaAowBEALw_wcB",
+
+      "item_title3": "Terceira Opção",
+      "item_descrition3": "Não informado",
+      "item_img3": "style/img/none.png",
+      "item_link3":"#"
     },
     {
-        "nome": "Alexandre",
-        "avatar": "style/img/alexandre.png",
-        "presentes": [
-            {
-                "titulo": "Opção Única",
-                "descricao": "Livro de culinária",
-                "imagem": "style/img/alexandre-pren1.png",
-                "links": [
-                    {
-                        "texto": "Comprar Agora",
-                        "url": "https://loja.exemplo.com/livro-culinaria"
-                    }
-                ]
-            }
-        ]
+      "name": "Alysson",
+      "avatar_img": "style/img/alysson.png",
+      "item_title1": "Primeira Opção",
+      "item_descrition1": "Tênis na cor marrom tamanho 40",
+      "item_img1": "style/img/alysson-pren1.png",
+      "item_link1":"https://br.shein.com/TênisHylaneMasculinoEFemininoBrancoPretoUnissexEstilosoConfortávelLançamento-p-98207244-cat-2093.html?share_from=null&url_from=GM74188504405&cdn_rsite=ak&ref=www&rep=dir&ret=br",
+
+      "item_title2": "Segunda Opção",
+      "item_descrition2": "Massageador portatil e Saco a vacuo",
+      "item_img2": "style/img/alysson-pren2.png",
+      "item_link2":"https://produto.mercadolivre.com.br/MLB-4108226429#origin=share&sid=share&action=copy",
+
+      "item_title3": "Terceira Opção",
+      "item_descrition3": "Não informado",
+      "item_img3": "style/img/none.png",
+      "item_link3":"#"
     },
     {
-        "nome": "Alexandre",
-        "avatar": "style/img/alexandre.png",
-        "presentes": [
-            {
-                "titulo": "Opção Única",
-                "descricao": "Livro de culinária",
-                "imagem": "style/img/alexandre-pren1.png",
-                "links": [
-                    {
-                        "texto": "Comprar Agora",
-                        "url": "https://loja.exemplo.com/livro-culinaria"
-                    }
-                ]
-            }
-        ]
+      "name": "Ana Karolyna",
+      "avatar_img": "style/img/karol.png",
+
+      "item_title1": "Primeira Opção",
+      "item_descrition1": "Tênis cor bege, tamanho 34",
+      "item_img1": "style/img/karol-pren2.png",
+      "item_link1":"https://br.shein.com/TenisStreetNBPremiumEsportivoFemininoMasculinoNBdo34ao39DiaADiaTrabalhoFestaPromoção-p-233121566-cat-3192.html?share_from=null&cdn_rsite=ak&ref=www&rep=dir&ret=br",
+
+      "item_title2": "Segunda Opção",
+      "item_descrition2": "Espelho led, cor branca",
+      "item_img2": "style/img/karol-pren1.png",
+      "item_link2":"https://shopee.com.br/product/352674932/23497607383?d_id=8930c&uls_trackid=5497ef5v02aq&utm_content=2qnnRjHVLBmTqFHbBaEUH3u8Q9bd",
+
+      "item_title3": "Terceira Opção",
+      "item_descrition3": "Pulseira Coração Cheio Detalhado",
+      "item_img3": "style/img/karol-pren3.png",
+      "item_link3":"https://anesilvajoias.com.br/produtos/pulseira-coracao-cheio-detalhado/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAOR7CVleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAad1KF_YV0kS8p5wrmdyb7b6bzEqswdbbUI1RX8loC5BVp9Sw_tJNN0lg-rk2w_aem_V40QdV4amDgjIOQ2I7WT3g"
+    },
+    {
+      "name": "Fátima",
+      "avatar_img": "style/img/fatima.png",
+
+      "item_title1": "Primeira Opção",
+      "item_descrition1": "Fátima é sem graça e não escolheu nada",
+      "item_img1": "style/img/none.png",
+      "item_link1":"#",
+
+      "item_title2": "Segunda Opção",
+      "item_descrition2": "Fátima é sem graça e não escolheu nada",
+      "item_img2": "style/img/none.png",
+      "item_link2":"#",
+
+      "item_title3": "Terceira Opção",
+      "item_descrition3": "Fátima é sem graça e não escolheu nada",
+      "item_img3": "style/img/none.png",
+      "item_link3":"#"
+    },
+    {
+      "name": "Ramiro",
+      "avatar_img": "style/img/ramiro.png",
+
+      "item_title1": "Primeira Opção",
+      "item_descrition1": "Fita Led Rgb 5050 Controle + Fonte",
+      "item_img1": "style/img/ramiro-pren1.png",
+      "item_link1":"https://produto.mercadolivre.com.br/MLB-3951084119-10m-fita-led-rgb-5050-controle-fonte-110v-220v-bivolt-_JM#origin=share&sid=share&action=copy",
+
+      "item_title2": "Segunda Opção",
+      "item_descrition2": "Máquina De Cortar Cabelo E Aparador De Barba",
+      "item_img2": "style/img/ramiro-pren2.png",
+      "item_link2":"https://www.mercadolivre.com.br/maquina-de-cortar-cabelo-e-aparador-de-barba-dr-hank-drago-dourado-lmina-t-profissional-sem-fio-recarregavel-usb-4-pentes-1-ao-4-mm-motor-potente/p/MLB61141279?pdp_filters=item_id%3AMLB5829683726&attributes=COLOR%3ADourado_vpp#origin=share&sid=share&wid=MLB5829683726&action=copy",
+
+      "item_title3": "Terceira Opção",
+      "item_descrition3": "Não informado",
+      "item_img3": "style/img/none.png",
+      "item_link3":"#"
+    },
+    {
+      "name": "Vitória",
+      "avatar_img": "style/img/vitoria.png",
+
+      "item_title1": "Primeira Opção",
+      "item_descrition1": "Vitória é sem graça e não escolheu nada",
+      "item_img1": "style/img/none.png",
+      "item_link1":"#",
+
+      "item_title2": "Segunda Opção",
+      "item_descrition2": "Vitória é sem graça e não escolheu nada",
+      "item_img2": "style/img/none.png",
+      "item_link2":"#",
+
+      "item_title3": "Terceira Opção",
+      "item_descrition3": "Vitória é sem graça e não escolheu nada",
+      "item_img3": "style/img/none.png",
+      "item_link3":"#"
     }
 ]
