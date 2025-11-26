@@ -3,7 +3,7 @@
       "name": "Alexandre",
       "avatar_img": "style/img/alexandre.png",
       "item_title1": "Primeira Opção",
-      "item_descrition1": "Fita métrica de aço inoxidável de alta precisão",
+      "item_descrition1": "Fita métrica 10M de aço inoxidável de alta precisão",
       "item_img1": "style/img/alexandre-pren1.png",
       "item_link1":"https://www.mercadolivre.com.br/fita-metrica-profissional-10m-ultra-resistente-aco-inox-obra/p/MLB53406701?pdp_filters=item_id%3AMLB4147282393&from=gshop&matt_tool=29851250&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090354004&matt_ad_group_id=173090515436&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727882725585&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB53406701-product&matt_product_partition_id=2387496046547&matt_target_id=aud-1966503641507:pla-2387496046547&cq_src=google_ads&cq_cmp=22090354004&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354004&gclid=Cj0KCQiAoZDJBhC0ARIsAERP-F9791_3Hw_P4GHIMfX8tSHA4KYIhVfKSe8__ia9EAjlr8CFH8GIHYEaAgD3EALw_wcB",
 
@@ -88,8 +88,8 @@
       "item_link2":"https://www.mercadolivre.com.br/maquina-de-cortar-cabelo-e-aparador-de-barba-dr-hank-drago-dourado-lmina-t-profissional-sem-fio-recarregavel-usb-4-pentes-1-ao-4-mm-motor-potente/p/MLB61141279?pdp_filters=item_id%3AMLB5829683726&attributes=COLOR%3ADourado_vpp#origin=share&sid=share&wid=MLB5829683726&action=copy",
 
       "item_title3": "Terceira Opção",
-      "item_descrition3": "Não informado",
-      "item_img3": "style/img/none.png",
+      "item_descrition3": "Balse de Paçoca",
+      "item_img3": "style/img/ramiro-pren3.png",
       "item_link3":"#"
     },
     {
@@ -97,18 +97,18 @@
       "avatar_img": "style/img/vitoria.png",
 
       "item_title1": "Primeira Opção",
-      "item_descrition1": "Vitória é sem graça e não escolheu nada",
-      "item_img1": "style/img/none.png",
-      "item_link1":"#",
+      "item_descrition1": "1kg Cerâmica fria",
+      "item_img1": "style/img/vitoria-pren1.png",
+      "item_link1":"https://www.mercadolivre.com.br/das-white-pasta-das-para-modelar-cermica-fria-sem-forno-1kg/p/MLB25687699?pdp_filters=item_id%3AMLB3859296401#origin=share&sid=share&wid=MLB3859296401&action=copy",
 
       "item_title2": "Segunda Opção",
-      "item_descrition2": "Vitória é sem graça e não escolheu nada",
-      "item_img2": "style/img/none.png",
-      "item_link2":"#",
+      "item_descrition2": "Shein - Kit hidratante corporal e esfoliante Kit Geleia Hidratante Corporal",
+      "item_img2": "style/img/vitoria-pren2.png",
+      "item_link2":"api-shein.shein.com/h5/sharejump/appjump?link=lgZmJz7Ou6a_8&localcountry=BR&url_from=GM74006000740",
 
       "item_title3": "Terceira Opção",
-      "item_descrition3": "Vitória é sem graça e não escolheu nada",
-      "item_img3": "style/img/none.png",
-      "item_link3":"#"
+      "item_descrition3": "Cesto de Roupa - Cor branca",
+      "item_img3": "style/img/vitoria-pren3.png",
+      "item_link3":"https://produto.mercadolivre.com.br/MLB-3961777775-cesto-de-roupa-suja-em-fibra-sintetica-70-litros-_JM#origin=share&sid=share&action=copy"
     }
 ]
