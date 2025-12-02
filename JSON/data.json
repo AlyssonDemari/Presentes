@@ -59,17 +59,17 @@
       "avatar_img": "style/img/fatima.png",
 
       "item_title1": "Primeira Opção",
-      "item_descrition1": "Chinelo Slide Nuvem Feminino, tamanho 34",
+      "item_descrition1": "COR ROSA, TAMANHO 34 ",
       "item_img1": "style/img/fatima-pren1.png",
       "item_link1":"https://br.shein.com/ChineloSlideNuvemFemininoConfortávelOrtopédico100EVABorrachaAnatômicaLindoEstilosoConfortávelMacio33ao40-p-89815339-cat-3188.html?share_from=null&cdn_rsite=ak&ref=www&rep=dir&ret=br",
 
       "item_title2": "Segunda Opção",
-      "item_descrition2": "Fátima é sem graça e não escolheu nada",
-      "item_img2": "style/img/none.png",
-      "item_link2":"#",
+      "item_descrition2": "ÓCULOS DE SOL, COR MARROM",
+      "item_img2": "style/img/fatima-pren2.png",
+      "item_link2":"https://api-shein.shein.com/h5/sharejump/appjump?link=lfCGXkw7POt_8_1&localcountry=BR",
 
       "item_title3": "Terceira Opção",
-      "item_descrition3": "Fátima é sem graça e não escolheu nada",
+      "item_descrition3": "Não informado",
       "item_img3": "style/img/none.png",
       "item_link3":"#"
     },
@@ -90,7 +90,7 @@
       "item_title3": "Terceira Opção",
       "item_descrition3": "Balse de Paçoca",
       "item_img3": "style/img/ramiro-pren3.png",
-      "item_link3":"#"
+      "item_link3":"https://www.mercadolivre.com.br/p/MLB50879629?pdp_filters=item_id:MLB5416368400#origin=share&sid=share&wid=MLB5416368400&action=copy"
     },
     {
       "name": "Vitória",
@@ -104,7 +104,7 @@
       "item_title2": "Segunda Opção",
       "item_descrition2": "Shein - Kit hidratante corporal e esfoliante Kit Geleia Hidratante Corporal",
       "item_img2": "style/img/vitoria-pren2.png",
-      "item_link2":"api-shein.shein.com/h5/sharejump/appjump?link=lgZmJz7Ou6a_8&localcountry=BR&url_from=GM74006000740",
+      "item_link2":"http://api-shein.shein.com/h5/sharejump/appjump?link=lgZmJz7Ou6a_8&localcountry=BR&url_from=GM74006000740",
 
       "item_title3": "Terceira Opção",
       "item_descrition3": "Cesto de Roupa - Cor branca",
